@@ -1,5 +1,10 @@
 # Zach's Neovim Plugins Repo
 
+确保配置在~/.config/nvim/目录下
+```
+cp -rf * ~/.config/nvim/
+```
+
 Those plugins can work together to provide an IDE-like experience (e.g., vscode, idea).
 You can toggle between different files, search and jump any files by you want, enjoy the
 smart code hints, completion and diagnosis after integrating morden language LSP servers.
